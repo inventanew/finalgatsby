@@ -49,7 +49,7 @@ class IndexPage extends React.Component {
         <br />
         <h2>Localization</h2>
         <p>
-          The <code>gatsby-source-contentful</code> wowsers this is awesome.
+          The <code>gatsby-source-contentful</code> wowsers this is awesome!
         </p>
         <p>
           An entry and asset node are created for each locale following fallback
